@@ -1,0 +1,39 @@
+1,2 about the pseudo-codes
+As a funcitonal programming language, I don't get why there is no type missing.
+It would be more beneficial to ask for coding for certain problem.
+Also, the codes are psudo-codes not actually working codes.
+They could be considered differently person by person.
+I spent a lot of time to actually find out what [] means.
+
+I don't really get the purpose of the questions.
+
+
+
+2. The alternative choices are ambiguous.
+Why there are no explainations about the key of data.
+The printing is performed line by line.
+ex)
+If the input is :
+data = (1, "Nice to meet you
+            Great to meet you"),
+       (2, "Great to meet you")
+The print would be like :
+Nice = 1
+to = 1 2
+meet = 1 2
+you = 1 2
+Great = 2
+Great = 1
+to = 1
+meet = 1
+you = 1
+
+Thus, I don't get what 'sorted' means.
+It will print in sorted way inside each line.
+
+
+
+6.
+What is terminal operation means?
+The phrase is not a specialized one or something.
+It would be better to ask "When does the computing occurs??" or something.
