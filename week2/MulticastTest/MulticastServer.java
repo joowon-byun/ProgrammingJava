@@ -2,7 +2,7 @@ import java.net.*;
 
 public class MulticastServer {
 
-    final static String INET_ADDR  = "";
+    final static String INET_ADDR  = "224.0.1.200";
     final static int PORT = 8888;
 
     public static void main(String[] args) throws UnknownHostException, InterruptedException {
