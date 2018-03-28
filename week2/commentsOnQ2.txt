@@ -1,0 +1,31 @@
+- not agreeing -
+2. 
+The Server and Client each *can* have and OutputStream and InputStream.
+It is not neccessary to have both stream at both sides.
+The sentence sounds vague to me
+
+- not agreeing -
+4.
+'transient' keyword means it will not be sent.
+Also, the professor says it will be initialized to null.
+The phrase (B) 'will not be initialized' sounds not exactly correct.
+(C) 'generic' is talking about Generic classes.
+Serializable is nothing to do with Genric classes.
+
+
+<<RMI>>
+5.
+Don't get why x should be serializable.
+The value of x exists only at server.
+* But the lecture says every object that communicate through network should be Serialiable.
+
+6.
+The STUB object act as a gateway to the server.
+But didn't know it also represent the remote obect.
+STUB helps to get the values at server, not able to use object as if it is at the client side.
+
+
+10.
+(B) Publish-Subscribe paradigm is reliable because of topic partitioning.
+The lecture doesn't mention about resilience.
+But I might able to deduce it is resilient myself.
